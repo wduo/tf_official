@@ -1,2 +1,5 @@
 # Customize
 MNIST-data/
+.idea/
+__pycache__/
+simple-examples/
